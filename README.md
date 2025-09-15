@@ -1,0 +1,1 @@
+JobsCreator is a simple yet powerful tool that helps you create, manage, and organize job listings with ease. Whether you're posting opportunities or structuring tasks, it streamlines the process so you can focus on what matters most.
